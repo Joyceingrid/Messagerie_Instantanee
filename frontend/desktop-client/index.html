@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="fr"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bureau · Messagerie instantanée</title><link rel="stylesheet" href="style.css"><script type="module" src="app.js"></script>
+</head><body><header class="bar"><a class="brand" href="/" aria-label="Messagerie instantanée, accueil"><span class="mark" aria-hidden="true"></span>Messagerie instantanée</a><div class="bar-end"><a href="../mobile-client/index.html">Vue mobile ↗</a><span id="who"></span><button id="logout" class="quiet" hidden>Déconnexion</button></div></header>
+<main class="client"><p id="status" role="status">Espace bureau</p>
+<div class="entry"><section class="poster"><div class="poster-copy"><span class="eyebrow">INTERFACE / BUREAU</span><h1>Vos conversations</h1><p>Retrouvez vos contacts et reprenez le fil.</p></div></section>
+<form id="auth"><span class="index">ESPACE PERSONNEL</span><h2>Bienvenue</h2><label>Pseudo<input id="name" required maxlength="100" autocomplete="username"></label><label>Mot de passe<input id="password" type="password" required maxlength="256" autocomplete="current-password" aria-describedby="hint"></label><small id="hint">Nouveau compte : 8 caractères minimum.</small><button value="login">Se connecter</button><button class="quiet" value="register">Créer mon compte</button></form></div>
+<section id="chat" hidden><aside><span class="index">RÉPERTOIRE</span><h2>Contacts</h2><input type="search" id="search" aria-label="Rechercher un contact" placeholder="Rechercher un contact"><nav id="contacts" aria-label="Correspondants"></nav><small id="no-contacts"></small></aside>
+<article><div class="thread-head"><span class="index">CONVERSATION PRIVÉE</span><h2 id="title">Choisissez un contact</h2><small id="presence"></small></div>
+<div class="timeline"><p id="empty">Sélectionnez un contact pour ouvrir une conversation.</p><ol id="feed" aria-label="Historique des messages"></ol></div><p id="typing" role="status"></p>
+<form id="compose"><input id="draft" aria-label="Votre message" placeholder="Écrivez votre message…" maxlength="4000" required><button>Envoyer</button></form></article></section></main></body></html>

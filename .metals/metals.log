@@ -1,0 +1,56 @@
+2026.11.02 23:16:24 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\koudj_wkfw7eh\Desktop\Efrei\API & Webservices\Messagerie_Instananee' for client Visual Studio Code 1.144.0.
+2026.11.02 23:16:24 INFO  Memory monitor started
+2026.11.02 23:16:24 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.02 23:16:25 INFO  no build target found for C:\Users\koudj_wkfw7eh\Desktop\Efrei\API & Webservices\Messagerie_Instananee\src\main\java\com\messagerie\message\Message.java. Using fallback presentation compiler.
+2026.11.02 23:16:26 INFO  Attempting to connect to the build server...
+2026.11.02 23:16:26 INFO  No running Bloop server found, starting one.
+2026.11.02 23:16:27 INFO  no build target found for C:\Users\koudj_wkfw7eh\Desktop\Efrei\API & Webservices\Messagerie_Instananee\src\main\java\com\messagerie\message\Message.java. Using fallback presentation compiler.
+nov. 02, 2026 11:16:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.11.02 23:16:27 INFO  no build target found for C:\Users\koudj_wkfw7eh\Desktop\Efrei\API & Webservices\Messagerie_Instananee\src\main\java\com\messagerie\message\Message.java. Using fallback presentation compiler.
+2026.11.02 23:16:27 INFO  Starting compilation server
+2026.11.02 23:16:27 INFO  no build target found for C:\Users\koudj_wkfw7eh\Desktop\Efrei\API & Webservices\Messagerie_Instananee\src\main\java\com\messagerie\message\Message.java. Using fallback presentation compiler.
+2026.11.02 23:16:29 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\koudj_wkfw7eh\Desktop\Efrei\API & Webservices\Messagerie_Instananee\.metals\bsp.trace.json or C:\Users\koudj_wkfw7eh\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.11.02 23:16:29 INFO  no build target found for C:\Users\koudj_wkfw7eh\Desktop\Efrei\API & Webservices\Messagerie_Instananee\src\main\java\com\messagerie\message\MessageRepository.java. Using fallback presentation compiler.
+2026.11.02 23:16:29 INFO  no build target found for C:\Users\koudj_wkfw7eh\Desktop\Efrei\API & Webservices\Messagerie_Instananee\src\main\java\com\messagerie\message\MessageRepository.java. Using fallback presentation compiler.
+2026.11.02 23:16:29 INFO  no build target found for C:\Users\koudj_wkfw7eh\Desktop\Efrei\API & Webservices\Messagerie_Instananee\src\main\java\com\messagerie\message\MessageRepository.java. Using fallback presentation compiler.
+2026.11.02 23:16:29 INFO  no build target found for C:\Users\koudj_wkfw7eh\Desktop\Efrei\API & Webservices\Messagerie_Instananee\src\main\java\com\messagerie\message\MessageRepository.java. Using fallback presentation compiler.
+2026.11.02 23:16:29 INFO  time: Connected to build server in 4.36s
+2026.11.02 23:16:30 INFO  Connected to Build server: Bloop v2.1.2
+2026.11.02 23:16:30 INFO  time: Imported build in 0.25s
+nov. 02, 2026 11:16:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2026.11.02 23:16:34 INFO  compiling demo (28 java sources)
+2026.11.02 23:16:35 WARN  javac exited with exit code 1
+2026.11.02 23:16:35 INFO  time: compiled demo in 1.65s
+2026.11.02 23:16:37 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.02 23:16:50 INFO  time: indexed workspace in 19s
+2026.11.02 23:16:50 INFO  compiling demo (28 java sources)
+2026.11.02 23:16:51 WARN  javac exited with exit code 1
+2026.11.02 23:16:51 INFO  time: compiled demo in 1.15s
+nov. 02, 2026 11:21:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.02 23:25:38 INFO  compiling demo (28 java sources)
+2026.11.02 23:25:40 WARN  javac exited with exit code 1
+2026.11.02 23:25:40 INFO  time: compiled demo in 1.68s
+2026.11.02 23:25:40 INFO  compiling demo (28 java sources)
+2026.11.02 23:25:41 WARN  javac exited with exit code 1
+2026.11.02 23:25:41 INFO  time: compiled demo in 1.6s
+2026.11.02 23:26:04 INFO  compiling demo (28 java sources)
+2026.11.02 23:26:05 WARN  javac exited with exit code 1
+2026.11.02 23:26:05 INFO  time: compiled demo in 1.68s
+2026.11.02 23:26:05 INFO  compiling demo (28 java sources)
+2026.11.02 23:26:07 WARN  javac exited with exit code 1
+2026.11.02 23:26:07 INFO  time: compiled demo in 1.58s
+2026.11.02 23:29:33 INFO  compiling demo (28 java sources)
+2026.11.02 23:29:35 WARN  javac exited with exit code 1
+2026.11.02 23:29:35 INFO  time: compiled demo in 1.74s
+2026.11.02 23:29:35 INFO  compiling demo (28 java sources)
+2026.11.02 23:29:36 WARN  javac exited with exit code 1
+2026.11.02 23:29:36 INFO  time: compiled demo in 1.59s
+2026.11.02 23:29:47 INFO  compiling demo (28 java sources)
+2026.11.02 23:29:49 WARN  javac exited with exit code 1
+2026.11.02 23:29:49 INFO  time: compiled demo in 1.68s
+2026.11.02 23:29:49 INFO  compiling demo (28 java sources)
+2026.11.02 23:29:50 WARN  javac exited with exit code 1
+2026.11.02 23:29:50 INFO  time: compiled demo in 1.84s

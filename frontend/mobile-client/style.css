@@ -1,0 +1,9 @@
+@import "../shared/base.css";
+.client { max-width: 680px; }
+.entry { grid-template-columns: 1fr; }
+.entry .poster { display: none; }
+#chat { grid-template-columns: 1fr; }
+#contacts { flex-direction: row; overflow-x: auto; }
+#contacts button { flex: none; }
+#feed { height: 35dvh; }
+
